@@ -627,6 +627,12 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:0, group-title="MOVIE",DIVA (sub indo)
 http://45.126.83.51/uq2663/h/h11/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MOVIE",  warner tv
+http://iptv-line.com:6969/daratista1/daratista/32205
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MOVIE",  DIVA ID 3
+http://iptv-line.com:6969/daratista1/daratista/32239
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MOVIE", (DOUBTFUL) DIVA ID 2
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 
